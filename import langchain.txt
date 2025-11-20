@@ -34,7 +34,7 @@ print("✓ LangChain version:", langchain.__version__)
 print("✓ LangGraph version:", langgraph.__version__)
 print("\nVerification successful!")
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-A REPORT ON LANDCHAIN AND LANGGRAPH
+A REPORT ON LANGCHAIN AND LANGGRAPH
 
 LangChain:-
 
@@ -57,5 +57,6 @@ Lets you control the flow of an AI system clearly.
 Good for building agents that loop, retry, or make decisions.
 
 More structured and predictable than LangChain.
+
 
 Helps prevent errors and makes long workflows stable.
