@@ -1,0 +1,61 @@
+import langchain
+    print("LangChain imported successfully!")
+except Exception as e:
+    print("LangChain import error:", e)
+
+# Verify LangGraphprint("Running installation verification...\n")
+
+# Verify LangChain
+try:
+    import langchain
+    print("LangChain imported successfully!")
+except Exception as e:
+    print("LangChain import error:", e)
+
+# Verify LangGraph
+try:
+    import langgraph
+    print("LangGraph imported successfully!")
+except Exception as e:
+    print("LangGraph import error:", e)
+print("Running installation verification...\n")
+
+# Verify LangChain
+try:
+try:
+    import langgraph
+    print("LangGraph imported successfully!")
+except Exception as e:
+    print("LangGraph import error:", e)
+import langchain
+import langgraph
+
+print("✓ LangChain version:", langchain.__version__)
+print("✓ LangGraph version:", langgraph.__version__)
+print("\nVerification successful!")
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+A REPORT ON LANDCHAIN AND LANGGRAPH
+
+LangChain:-
+
+Helps you build apps that use LLMs (like ChatGPT).
+
+Connects AI models with tools, APIs, and databases.
+
+Makes it easy to create chatbots and assistants.
+
+Has many ready-made components you can reuse.
+
+Popular and beginner-friendly library for AI workflows.
+
+LangGraph:-
+
+Used to create AI agents that follow steps (graphs).
+
+Lets you control the flow of an AI system clearly.
+
+Good for building agents that loop, retry, or make decisions.
+
+More structured and predictable than LangChain.
+
+Helps prevent errors and makes long workflows stable.
