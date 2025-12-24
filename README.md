@@ -15,16 +15,9 @@ Unlike basic chatbots that provide isolated responses, this system supports cont
 
 ---
 
-## 3. Problem Statement
-
-Most traditional chatbots:
-- Do not retain conversation context
-- Provide answers without reliable research grounding
-- Cannot handle follow-up questions effectively
-
 ---
 
-## 4. Objective
+## 3. Objective
 
 The main objectives of this project are:
 - To design a multi-agent AI system for structured research
@@ -34,7 +27,7 @@ The main objectives of this project are:
 
 ---
 
-## 5. Software and Hardware Dependencies
+## 4. Software and Hardware Dependencies
 
 ### Software Dependencies
 
@@ -57,7 +50,7 @@ The system is optimized to run on a standard student laptop:
 
 ---
 
-## 6. High-Level Architecture
+## 5. High-Level Architecture
 
 The architecture of Open Deep Research follows a layered multi-agent design.
 
@@ -74,7 +67,7 @@ The architecture of Open Deep Research follows a layered multi-agent design.
 
 ---
 
-## 7. Workflow
+## 6. Workflow
 
 1. User submits a query through the Streamlit interface.
 2. Session memory retrieves previous conversation context.
@@ -86,7 +79,7 @@ The architecture of Open Deep Research follows a layered multi-agent design.
 
 ---
 
-## 8. Agent Roles
+## 7. Agent Roles
 
 ### Planner Agent
 - Understands user intent
@@ -106,7 +99,7 @@ The architecture of Open Deep Research follows a layered multi-agent design.
 
 ---
 
-## 9. Outputs / Results
+## 8. Outputs / Results
 
 ### Chat Output – Example 1
 
@@ -122,7 +115,7 @@ The following screenshot shows a follow-up question handled using session memory
 
 ---
 
-## 10. Session Memory and Continuity Support
+## 9. Session Memory and Continuity Support
 
 - The system retains user messages within a session.
 - Previous interactions are stored temporarily.
@@ -133,7 +126,7 @@ This ensures a smooth and context-aware conversational experience.
 
 ---
 
-## 11. Future Enhancements
+## 10. Future Enhancements
 
 - Multi-user authentication
 - Database-backed chat storage
@@ -143,7 +136,8 @@ This ensures a smooth and context-aware conversational experience.
 
 ---
 
-## 12. Conclusion
+## 11. Conclusion
 
 Open Deep Research demonstrates the practical implementation of a multi-agent AI system with session memory and research-backed reasoning.
 The project highlights modular design, structured research flow, and conversational continuity, making it suitable for intelligent research assistant applications.
+
