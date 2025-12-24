@@ -41,11 +41,11 @@ The main objectives of this project are:
 ### Hardware Dependencies
 
 The system is optimized to run on a standard student laptop:
-- Processor: Intel i5 or AMD Ryzen 5 or equivalent
+- Processor: Intel i5 core
 - RAM: Minimum 8 GB
 - Storage: At least 5 GB free space
 - GPU: Not required
-- Operating System: Windows, Linux, or macOS
+- Operating System: Windows 11
 
 ---
 
@@ -138,3 +138,4 @@ This ensures a smooth and context-aware conversational experience.
 
 Open Deep Research demonstrates the practical implementation of a multi-agent AI system with session memory and research-backed reasoning.
 The project highlights modular design, structured research flow, and conversational continuity, making it suitable for intelligent research assistant applications.
+
